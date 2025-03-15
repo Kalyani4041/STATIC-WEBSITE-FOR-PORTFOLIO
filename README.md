@@ -57,10 +57,13 @@ Enhancing accessibility features for improved user experience.
 
 #OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/22cf199e-1c7c-4e2c-acfd-11210ee53983)
-![Image](https://github.com/user-attachments/assets/4a73ebd8-a459-4a36-a552-35f0ae363316)
-![Image](https://github.com/user-attachments/assets/c112f633-9e78-456a-bc6b-b47640b17317)
-![Image](https://github.com/user-attachments/assets/3c7b2139-e043-4050-9616-945a30a926ba)
+![Image](https://github.com/user-attachments/assets/68192ee9-6bbc-4cea-912a-529aad607d99)
+
+![Image](https://github.com/user-attachments/assets/923bac24-2a23-4cca-ac3a-a20d03a62ac1)
+
+![Image](https://github.com/user-attachments/assets/39ea9adf-64f7-4142-9137-8f625e822152)
+
+![Image](https://github.com/user-attachments/assets/ad043595-ca4a-4071-8a0b-0c65f96c5a5e)
 
 
 
